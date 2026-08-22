@@ -4,6 +4,13 @@ Site diary task for WBHO.
 
 List entries, add entries, filter by contract, summary view with counts per contract. All the stuff from the brief.
 
+
+## NB
+
+
+
+I used AI assistance to quickly scaffold the Docker configurations and refresh my memory on SQLite setup (my daily stack is typically MongoDB/ SQL Server / PostgreSQL). All core business logic, MVC architecture, Redux state setup, and UI components were written by hand. Though I did look at documentations there and there. I remember the logic, not the syntax and methods sometimes. 😅
+
 ## What I built it with
 
 Backend is Node and Express. I kept an mvc setup on the backend — routes, controllers, models, services — so `server.js` stays clean and I'm not cramming everything into one file.
@@ -17,6 +24,7 @@ Redux for global state. Material UI for the ui. Toasts via notistack.
 Git for the codebase.
 
 Docker so you can run the project without setting up node on your machine first.
+
 
 ## Project layout
 
