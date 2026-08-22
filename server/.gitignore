@@ -1,0 +1,17 @@
+
+**/node_modules/
+
+
+**/.env
+**/.env.*
+!**/.env.example
+
+
+# **/yarn.lock
+# **/package-lock.json
+# **/pnpm-lock.yaml
+
+
+**/*.log
+**/*.tgz
+**/*.tar.gz
