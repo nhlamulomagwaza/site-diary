@@ -9,7 +9,7 @@ List entries, add entries, filter by contract, summary view with counts per cont
 
 
 
-I used AI assistance to quickly scaffold the Docker configurations and refresh my memory on SQLite setup (my daily stack is typically MongoDB/ SQL Server / PostgreSQL). All core business logic, MVC architecture, Redux state setup, and UI components were written by hand. Though I did look at documentations there and there. I remember the logic, not the syntax and methods sometimes. 😅
+I used AI assistance to quickly scaffold the Docker configurations and refresh my memory on SQLite setup (my daily stack is typically MongoDB/ SQL Server / PostgreSQL). All core business logic, MVC architecture, Redux state setup, and UI components were written by hand. Though I did look at documentations there and there. I remember the logic, not the syntax or methods... it happens sometimes. 😅
 
 ## What I built it with
 
