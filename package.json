@@ -1,0 +1,10 @@
+{
+  "name": "site-diary",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build:client": "npm run build --prefix client",
+    "docker:up": "npm run build:client && docker compose up --build",
+    "docker:up:detach": "npm run build:client && docker compose up --build -d"
+  }
+}
